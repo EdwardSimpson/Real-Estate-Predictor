@@ -1,0 +1,41 @@
+Capstone Notes
+----------------
+
+---------------
+Analyzing Data
+---------------
+
+Zipcodes - https://maps.huge.info/zip.htm
+Counties
+States
+
+Rent Prediction:
+	Zillow - https://www.zillow.com/research/methodology-zori-repeat-rent-27092/
+
+Home-Value Prediction:
+	Zillow - https://www.zillow.com/research/zhvi-methodology-2019-highlights-26221/
+
+County Prediction:
+	GDP - https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
+	Crime??
+	Influx - https://www.census.gov/library/visualizations/2021/dec/percent-change-county-population.html
+	Biz - https://www.census.gov/programs-surveys/cbp/data/datasets.html
+
+State Prediction:
+	GDP - https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
+	Crime??
+	Influx - https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
+	Biz - https://www.census.gov/programs-surveys/cbp/data/datasets.html
+
+--------
+Results
+--------
+
+-----------------
+Potential Models
+-----------------
+
+---------------
+Model Accuracy
+---------------
+	
